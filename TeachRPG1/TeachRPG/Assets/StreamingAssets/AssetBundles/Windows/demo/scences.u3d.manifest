@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3151034547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4007cbfd8150f62fe01f68290863606
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Art/Scences/Demo/Scences/Demo.unity
+- Assets/Art/Scences/Demo/Scences/Test.unity
+- Assets/Art/Scences/Demo/Scences/LuaDemo.unity
+Dependencies:
+- E:/Archives/QFLesson/LastLesson/TeachRPG1/TeachRPG/AssetBundles/Windows/demo.ld

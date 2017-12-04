@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2110608843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cf43768938871da7cfdfb2eec3a2069
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/ScenceRPG/LitMap/arrow.png
+- Assets/Art/Scences/ScenceRPG/LitMap/mipMap.png
+Dependencies: []

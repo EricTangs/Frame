@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3406120154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd998677bc4c2aaa91a5a2f68a38b16c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc7b69794a2bdada249e557ebbfded10
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/UIClip/Clip.shader
+Dependencies: []

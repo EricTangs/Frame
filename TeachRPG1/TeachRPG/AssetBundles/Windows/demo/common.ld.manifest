@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2312109261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a917f57631aaa588ab2977d55e27e369
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/Demo/Common/Background.png
+Dependencies: []

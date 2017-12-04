@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1789741051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd551b7b290a4d74ad338aebb550ddf6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0520077050483de6babb9bd310d40764
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/UIFlash/Shader/UIFlash2.mat
+- Assets/Art/Scences/UIFlash/Shader/UIFlash.mat
+- Assets/Art/Scences/UIFlash/Shader/UIFlash2.shader
+- Assets/Art/Scences/UIFlash/Shader/UIFlash.shader
+Dependencies:
+- E:/Archives/QFLesson/LastLesson/TeachRPG1/TeachRPG/AssetBundles/Windows/uiflash/texture.ld

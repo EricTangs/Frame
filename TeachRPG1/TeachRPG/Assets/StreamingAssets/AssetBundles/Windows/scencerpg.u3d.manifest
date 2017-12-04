@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 351715210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e71c0e7c2ac5f49da1418b7a4db4261
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Art/Scences/ScenceRPG/Demo1-Day.unity
+Dependencies:
+- E:/Archives/QFLesson/LastLesson/TeachRPG1/TeachRPG/AssetBundles/Windows/scencerpg/npc.ld
+- E:/Archives/QFLesson/LastLesson/TeachRPG1/TeachRPG/AssetBundles/Windows/scencerpg/demo.ld
+- E:/Archives/QFLesson/LastLesson/TeachRPG1/TeachRPG/AssetBundles/Windows/scencerpg/playerskill.ld
+- E:/Archives/QFLesson/LastLesson/TeachRPG1/TeachRPG/AssetBundles/Windows/scencerpg/litmap.ld
+- E:/Archives/QFLesson/LastLesson/TeachRPG1/TeachRPG/AssetBundles/Windows/scencerpg/player.ld
